@@ -14,7 +14,7 @@
 
 4. ❌ If you repeat the sequence correctly, the game continues; otherwise, the game ends.
 
-
+Click link: https://akash7428832025.github.io/Simon-Game/
 
 ✨ Features
 
