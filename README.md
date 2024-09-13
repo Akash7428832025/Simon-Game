@@ -22,7 +22,6 @@ Click link: https://akash7428832025.github.io/Simon-Game/
 
 🏆 Real-time score tracking.
 
-🔊 Fun sound effects for each color.
 
 
 💻 Technologies Used
